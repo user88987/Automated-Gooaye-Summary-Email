@@ -67,7 +67,7 @@ In the GAS left sidebar, click "Triggers" and add two:
 
 | Function | Trigger Timing | Purpose |
 |----------|----------------|---------|
-| `startTranscription` | Every Wednesday & Saturday (set separately) | Submit transcription job |
+| `startTranscription` | Every Thursday & Sunday (set separately) | Submit transcription job |
 | `checkAndSendReport` | Every 5 minutes | Poll for completion and send email |
 
 ---
