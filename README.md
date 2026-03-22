@@ -21,7 +21,7 @@ Gmail HTML Morning Note Delivery
 
 | Item | Where to Get It | Cost |
 |------|-----------------|------|
-| AssemblyAI API Key | Sign up at [assemblyai.com](https://assemblyai.com) | Free ($50/month credit) |
+| AssemblyAI API Key | Sign up at [assemblyai.com](https://assemblyai.com) | Free ($50 credit) |
 | Gemini API Key | [aistudio.google.com](https://aistudio.google.com) | Free |
 | Google Sheet | Create a new sheet, rename the tab to `log` | Free |
 | Google Apps Script | [script.google.com](https://script.google.com) | Free |
